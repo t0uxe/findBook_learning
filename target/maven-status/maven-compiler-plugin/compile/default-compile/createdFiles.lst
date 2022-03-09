@@ -1,0 +1,7 @@
+com/formacion/config/Inicializador.class
+com/formacion/config/MvcConfig.class
+com/formacion/controller/LibrosController.class
+com/formacion/service/LibrosServiceImpl.class
+com/formacion/model/Libro.class
+com/formacion/service/LibrosService.class
+com/formacion/config/SpringConfig.class
